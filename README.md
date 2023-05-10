@@ -1,6 +1,3 @@
-<h1 align="center"> Hi, I'm @Zzznai </h1> <p align="center"> 👀 I'm interested in building cool stuff </p> <p align="center"> 🌱 I'm currently learning C# and other exciting technologies </p> <p align="center"> 💞️ I'm looking to collaborate on any project that encourages learning </p> <p align="center"> 📫 How to reach me: <a href="mailto:naimabazabaz@gmail.com">naimabazabaz@gmail.com</a></p> <p align="center">There isn't a built-in white and green theme for the GitHub Readme Stats, but you can create a custom theme by specifying the color values for different elements using URL parameters. Here's an example of a white and green theme for your GitHub stats:
-
-```html
 <h1 align="center">🚀 Hi, I'm @Zzznai! 🚀</h1>
 <p align="center">🔧 I'm passionate about building cool stuff and learning new technologies.</p>
 <p align="center">🌱 Currently mastering C# and exploring other exciting technologies.</p> 
@@ -14,7 +11,6 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Zzznai" alt="Zzznai Repo Visitors">
 </p>
-```
 
 
 <!---
