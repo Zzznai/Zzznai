@@ -1,4 +1,4 @@
-Here is the code with a white background:
+
 
 <h1 align="center" style="background-color: #fff"> Hi, I'm @Zzznai </h1> 
 <p align="center" style="background-color: #fff"> 👀 I'm interested in building cool stuff </p>
