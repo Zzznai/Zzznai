@@ -1,5 +1,5 @@
-<h1 align="center">🚀 Hi, I'm @Zzznai! 🚀</h1>
-<p align="center">🔧 I'm passionate about building cool stuff and learning new technologies.</p>
+<h1 align="center">Hi, I'm @Zzznai! 👋</h1>
+<p align="center">👀 I'm passionate about building cool stuff and learning new technologies.</p>
 <p align="center">🌱 Currently mastering C# and exploring other exciting technologies.</p> 
 <p align="center">💡 I'm open to collaborating on any project that encourages learning and growth.</p>
 <p align="center">📫 Let's connect! 💌 <a href="mailto:naimabazabaz@gmail.com">naimabazabaz@gmail.com</a></p>
