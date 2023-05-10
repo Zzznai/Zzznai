@@ -1,5 +1,3 @@
-Here is the code converted into a 3D diagram without images:
-
 <div style="background-color: #fff;">
 <h1 align="center"> Hi, I'm @Zzznai </h1>
 <p align="center"> 👀 I'm interested in building cool stuff </p> 
