@@ -1,16 +1,14 @@
 <div align="center">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> Hi, I'm @Zzznai <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> 👀 I'm interested in building cool stuff <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> 🌱 I'm currently learning C# and other exciting technologies <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> 💞️ I'm looking to collaborate on any project that encourages learning <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> 📫 How to reach me: <a href="mailto:naimabazabaz@gmail.com">naimabazabaz@gmail.com</a> <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
 
-# Hi, I'm @Zzznai 👋
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
 
-👀 I'm interested in building cool stuff  
-🌱 I'm currently learning C# and other exciting technologies  
-💞️ I'm looking to collaborate on any project that encourages learning  
-📫 How to reach me: [naimabazabaz@gmail.com](mailto:naimabazabaz@gmail.com)
-
-![Zzznai's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zzznai&show_icons=true&theme=merko)
-
-[![Repositories](https://img.shields.io/badge/Repositories-View-green)](https://github.com/Zzznai?tab=repositories&sort=stargazers)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Zzznai)
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
+<img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px"> <img src="https://github.com/Zzznai/Zzznai/blob/main/3dtext.png" width="200px">
 
 </div>
 
