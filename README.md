@@ -1,5 +1,5 @@
 
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io](https://images.squarespace-cdn.com/content/v1/5d902d5c0f86bc4262944e16/1573117822036-B33A0D65A3IR0XWGJY5A/Guides-Animation-Final-700x360.gif?format=1500w)
+[![MasterHead](https://images.squarespace-cdn.com/content/v1/5d902d5c0f86bc4262944e16/1573117822036-B33A0D65A3IR0XWGJY5A/Guides-Animation-Final-700x360.gif?format=1000w)
 
 <h1 align="center">Hi 👋, I'm Zzznai</h1>
 <h3 align="center">👀 I'm interested in building cool stuff</h3>
