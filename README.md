@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **naimabazabaz@gmail.com**
 
-- 🌱 GitHub Gardener: **Cultivating code and commits just like I do with my plants – one branch at a time! 🌿👩‍💻 Let's watch this repository grow and bloom. 🌸🌱**
+- 🌿 GitHub Gardener: **Cultivating code and commits as I do with my plants – one branch at a time! 🌿👩‍💻 Let's watch those repositories grow and bloom. 🌸🌱**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
