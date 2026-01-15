@@ -9,10 +9,9 @@
 
 ---
 
-## 🕹️ Night Mode: Contribution Maze
-*The grid glows in the dark...*
+## 🕹️ Contribution Maze: Night Ops
 <p align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/tedipatov05/tedipatov05/output/pacman-contribution-graph.svg" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/snake?username=zzznai&theme=dark&color_dot=%23161b22&color_snake=%2358a6ff" alt="Contribution Snake" width="100%" />
 </p>
 
 ---
@@ -21,8 +20,8 @@
 | Status | Quest | XP Reward |
 | :--- | :--- | :--- |
 | 🟡 **Active** | **Deep C# Mastery** - Unlock Memory Management | +750 XP |
-| 🟢 **Clear** | **Gardener's Ritual** - Setup Pacman-Graph.svg | +200 XP |
-| ⚪ **Hidden** | **Night Owl** - Push code after midnight | +50 XP |
+| 🟢 **Clear** | **Proper Logic** - Fixed External Resource Errors | +300 XP |
+| ⚪ **Locked** | **The Open Source Key** - Merge a Foreign PR | ??? |
 
 ---
 
@@ -43,27 +42,17 @@
 
 ---
 
-## 🏆 Achievements
-<p align="left">
-  <img src="https://img.shields.io/badge/Achievement-Midnight_Coder-blueviolet?style=for-the-badge&logo=moon" />
-  <img src="https://img.shields.io/badge/Rank-Shadow_Gardener-2ea043?style=for-the-badge&logo=leaf" />
-</p>
-
----
-
-## 📊 Global Leaderboard (Dark Mode)
+## 📊 Global Leaderboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzznai&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzznai&show_icons=true&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Top Languages" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zzznai&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zzznai&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="General Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzznai&show_icons=true&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Top Languages" />
 </div>
 
 ---
 
-## 💬 Dialogue Box
-> **Zzznai:** "The code is growing well in the dark. If you want to join the party, send a scroll to **naimabazabaz@gmail.com**."
+## 💬 NPC Dialogue Box
+> **Zzznai says:** "I'm looking to collaborate on any project that encourages learning! Drop a scroll at **naimabazabaz@gmail.com** if you want to party up."
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=100&section=footer" width="100%"/>
 </div>
