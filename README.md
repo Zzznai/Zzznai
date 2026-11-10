@@ -21,16 +21,6 @@ I'm a software engineering student who enjoys understanding how things work, fro
 
 ---
 
-### Meet Momo
-
-<div align="center">
-  <img src="./assets/panda.svg" alt="Momo, a pixel-art red panda who is sad until you open this page and then gets very happy" width="100%"/>
-  <br/>
-  <sub>Momo gets lonely when nobody is around. Reload the page to see how happy a visit makes them.</sub>
-</div>
-
----
-
 ### Tech stack
 
 <p>
