@@ -67,18 +67,8 @@ object Zzznai : Explorer {
 
 ## 📊 Global Leaderboard
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zzznai&show_icons=true&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="General Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zzznai&show_icons=true&layout=compact&theme=dark&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&border_color=30363d" alt="Top Languages" />
-  <br/>
   <img src="https://streak-stats.demolab.com?user=zzznai&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff" alt="Commit streak" />
 </div>
-
----
-
-## 🕹️ Contribution Orbit: Night Ops
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zzznai&bg_color=0d1117&color=58a6ff&line=1f6feb&point=d2a8ff&area=true&area_color=1f6feb&hide_border=true" alt="Contribution graph" width="100%" />
-</p>
 
 ---
 
