@@ -5,7 +5,7 @@
 
   <br/>
 
-  <img src="./assets/planet.svg" alt="Planet Zzznai: a spinning world made of code and binary" width="100%"/>
+  <img src="./assets/planet.svg" alt="Planet Zzznai: spinning worlds printed in code characters" width="100%"/>
 
   <p><b>📍 Current Location:</b> Dark Forest Garden 🌿 &nbsp;|&nbsp; <b>🧬 Class:</b> Full-Stack Shadow Walker &nbsp;|&nbsp; <b>🪐 Home world:</b> Planet Zzznai</p>
 
