@@ -1,84 +1,75 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0e75b6,100:58a6ff&height=140&section=header&text=Zzznai.exe&fontColor=c9d1d9&fontSize=48&fontAlignY=38&desc=booting%20a%20universe%20one%20commit%20at%20a%20time&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Zzznai.exe"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=900&color=58A6FF&center=true&vCenter=true&width=620&lines=%3E+SYSTEM+BOOT%3A+Zzznai.exe;%3E+loading+planet+from+0s+and+1s...;%3E+class%3A+Full-Stack+Shadow+Walker;%3E+current+quest%3A+Android+%2B+Kotlin;%3E+status%3A+online+%E2%9C%A6+ready+to+party+up" alt="Typing intro" />
+<img src="./assets/planet.svg" alt="Planets rendered from code characters" width="100%"/>
 
-  <br/>
+# Hi, I'm Naim Abaz
 
-  <img src="./assets/planet.svg" alt="Planet Zzznai: spinning worlds printed in code characters" width="100%"/>
+**Software Engineering student · C# / Python / Assembly · Data Analysis, Machine Learning & AI**
 
-  <p><b>📍 Current Location:</b> Dark Forest Garden 🌿 &nbsp;|&nbsp; <b>🧬 Class:</b> Full-Stack Shadow Walker &nbsp;|&nbsp; <b>🪐 Home world:</b> Planet Zzznai</p>
-
-  <img src="https://komarev.com/ghpvc/?username=zzznai&label=PLAYER%20EXP&color=21262d&style=press-start" alt="Experience" />
 </div>
 
 ---
 
-## 🛰️ Mission Control
+### About me
 
-```kotlin
-object Zzznai : Explorer {
-    override val homeWorld = "Planet Zzznai"
-    override val mainWeapons = listOf("C#", ".NET", "JavaScript", "C++")
-    override val nowLearning = listOf("Kotlin", "Android", "Room", "MVVM")
-    override val fuel = "☕ coffee + curiosity"
+I'm a software engineering student who enjoys understanding how things work, from high-level application code down to what the CPU actually executes.
 
-    override fun dailyRoutine() {
-        while (universe.isExpanding()) {
-            learn(); build(); commit(); repeat()
-        }
-    }
-}
-```
+- 💻 **Languages I focus on:** C#, Python and Assembly
+- 📊 **Interested in:** data analysis, machine learning and artificial intelligence
+- 🌱 **Currently learning:** Android development with Kotlin, and Python for data work
+- 🤝 **Open to:** collaborating on learning-oriented and data-driven projects
 
 ---
 
-## 📜 Shadow Quest Journal
-| Status | Quest | XP Reward |
-| :--- | :--- | :--- |
-| 🟣 **New** | **Android Awakening** - Ship a Kotlin app with Room, camera & sensors | +1000 XP |
-| 🟡 **Active** | **Deep C# Mastery** - Unlock Memory Management | +750 XP |
-| 🟢 **Clear** | **Proper Logic** - Fixed External Resource Errors | +300 XP |
-| ⚪ **Locked** | **The Open Source Key** - Merge a Foreign PR | ??? |
+### Tech stack
 
----
-
-## 🛠️ Dark Inventory & Skill Tree
-### ⚔️ Primary Weapons
-- **C# / .NET** `Level 25` ████████░░
-- **JavaScript** `Level 20` ██████░░░░
-- **C++** `Level 15` ████░░░░░░
-- **Kotlin / Android** `Level 3` █░░░░░░░░░ `✨ new spell unlocked`
-
-### 🎒 Utility Belt
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" height="40" alt="dotnet"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="react"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="cplusplus"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" width="40" height="40" alt="kotlin"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="android"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" alt="mssql"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40" alt="git"/>
+<p>
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Assembly-6E4C13?style=flat-square&logoColor=white" alt="Assembly"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
+**Exploring for data & AI:**
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+
 ---
 
-## 📊 Global Leaderboard
+### Selected projects
+
+| Project | Description | Tech |
+| :--- | :--- | :--- |
+| [Bambi](https://github.com/Zzznai/Bambi) | Web platform for exchanging and selling second-hand clothes | JavaScript |
+| [MusicCatalog](https://github.com/Zzznai/MusicCatalog) | Music catalog application | C# |
+| [E-Pharmacy](https://github.com/Zzznai/E-Pharmacy) | Online pharmacy web application | JavaScript |
+| [BarRating](https://github.com/Zzznai/BarRating) | Bar rating system, state exam practical task | C# |
+| [Pet-Clinic](https://github.com/Zzznai/Pet-Clinic) | .NET application built during my internship | C# / .NET |
+| [FireAlarmSystem](https://github.com/Zzznai/FireAlarmSystem) | Arduino-based fire alarm system | C++ |
+
+---
+
+### GitHub statistics
+
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=zzznai&theme=dark&background=0d1117&border=30363d&ring=58a6ff&fire=d2a8ff&currStreakLabel=58a6ff" alt="Commit streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zzznai&theme=github_dark" height="165" alt="GitHub stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zzznai&theme=github_dark" height="165" alt="Repositories per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Zzznai&theme=github_dark" height="165" alt="Most committed language"/>
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Zzznai&theme=github-dark-blue&hide_border=true" alt="Commit streak"/>
+  <br/><br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zzznai&theme=github_dark" width="100%" alt="Contribution history"/>
 </div>
 
 ---
 
-## 💬 NPC Dialogue Box
-> **Zzznai says:** "I'm looking to collaborate on any project that encourages learning! Drop a scroll at **naimabazabaz@gmail.com** if you want to party up."
+### Contact
 
-<div align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5d902d5c0f86bc4262944e16/1573117822036-B33A0D65A3IR0XWGJY5A/Guides-Animation-Final-700x360.gif?format=1000w" alt="Game Start" width="60%">
-
-  <sub>✦ 0101 · thanks for visiting Planet Zzznai · 1010 ✦</sub>
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:0e75b6,100:0d1117&height=100&section=footer" width="100%"/>
-</div>
+📫 **naimabazabaz@gmail.com**
