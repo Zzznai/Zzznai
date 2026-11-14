@@ -14,10 +14,10 @@
 
 I'm a software engineering student who enjoys understanding how things work, from high-level application code down to what the CPU actually executes.
 
-- 💻 **Languages I focus on:** C#, Python and Assembly
-- 📊 **Interested in:** data analysis, machine learning and artificial intelligence
-- 🌱 **Currently learning:** Android development with Kotlin, and Python for data work
-- 🤝 **Open to:** collaborating on learning-oriented and data-driven projects
+- **Languages I focus on:** C#, Python and Assembly
+- **Interested in:** data analysis, machine learning and artificial intelligence
+- **Currently learning:** Android development with Kotlin, and Python for data work
+- **Open to:** collaborating on learning-oriented and data-driven projects
 
 ---
 
