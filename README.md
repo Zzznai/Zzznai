@@ -66,6 +66,12 @@ I'm a software engineering student who enjoys understanding how things work, fro
   <img src="https://streak-stats.demolab.com?user=Zzznai&theme=github-dark-blue&hide_border=true" alt="Commit streak"/>
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zzznai&theme=github_dark" width="100%" alt="Contribution history"/>
+  <br/><br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 ---
