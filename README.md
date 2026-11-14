@@ -68,9 +68,9 @@ I'm a software engineering student who enjoys understanding how things work, fro
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zzznai&theme=github_dark" width="100%" alt="Contribution history"/>
   <br/><br/>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Zzznai/Zzznai/output/pacman-contribution-graph.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg">
+    <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%">
   </picture>
 </div>
 
