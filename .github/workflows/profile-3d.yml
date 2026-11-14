@@ -6,7 +6,9 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/profile-3d.yml"]
+    paths:
+      - ".github/workflows/profile-3d.yml"
+      - ".github/scripts/contrib3d.py"
 
 permissions:
   contents: write
@@ -14,15 +16,16 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v5
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Render 3D contribution card
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-      - name: Recolor C# so it stands apart from Kotlin
-        run: sed -i 's/#7355dd/#2f81f7/gI' profile-3d-contrib/*.svg
+        run: python .github/scripts/contrib3d.py profile-3d-contrib/contrib-3d.svg
       - name: Commit & Push
         run: |
           git config user.name github-actions

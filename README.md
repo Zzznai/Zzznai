@@ -67,7 +67,7 @@ I'm a software engineering student who enjoys understanding how things work, fro
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zzznai&theme=github_dark" width="100%" alt="Contribution history"/>
   <br/><br/>
-  <img alt="3D contribution calendar" src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  <img alt="3D contribution calendar" src="./profile-3d-contrib/contrib-3d.svg" width="100%">
 </div>
 
 ---
